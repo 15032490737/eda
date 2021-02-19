@@ -73,7 +73,8 @@
 >\```C<br>
 int main()<br>
 {<br>
-return 0;<br>
+ printf("hello world\n");<>
+ return 0;<br>
 }<br>
 \```<br>
 
