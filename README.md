@@ -1,4 +1,4 @@
-# Markdown使用指南
+# Markdown使用说明
 #### 本文主要介绍
 1. 什么是Markdown
 2. 为什么推荐使用Markdown
